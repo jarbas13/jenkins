@@ -1,2 +1,0 @@
-# jenkins
-Estudo do jenkins
